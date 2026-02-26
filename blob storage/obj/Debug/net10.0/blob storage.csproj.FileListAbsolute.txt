@@ -1,0 +1,32 @@
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/blob storage
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/blob storage.deps.json
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/blob storage.runtimeconfig.json
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/blob storage.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/blob storage.pdb
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/Azure.Core.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/Azure.Identity.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/Azure.Storage.Blobs.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/Azure.Storage.Common.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/Microsoft.Identity.Client.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/System.ClientModel.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/System.IO.Hashing.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/System.Memory.Data.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/System.Security.Cryptography.ProtectedData.dll
+/workspaces/blob-storage/blob storage/bin/Debug/net10.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/workspaces/blob-storage/blob storage/obj/Debug/net10.0/blob storage.csproj.AssemblyReference.cache
+/workspaces/blob-storage/blob storage/obj/Debug/net10.0/blob storage.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/blob-storage/blob storage/obj/Debug/net10.0/blob storage.AssemblyInfoInputs.cache
+/workspaces/blob-storage/blob storage/obj/Debug/net10.0/blob storage.AssemblyInfo.cs
+/workspaces/blob-storage/blob storage/obj/Debug/net10.0/blob storage.csproj.CoreCompileInputs.cache
+/workspaces/blob-storage/blob storage/obj/Debug/net10.0/blob storage.sourcelink.json
+/workspaces/blob-storage/blob storage/obj/Debug/net10.0/blob sto.54D771CF.Up2Date
+/workspaces/blob-storage/blob storage/obj/Debug/net10.0/blob storage.dll
+/workspaces/blob-storage/blob storage/obj/Debug/net10.0/refint/blob storage.dll
+/workspaces/blob-storage/blob storage/obj/Debug/net10.0/blob storage.pdb
+/workspaces/blob-storage/blob storage/obj/Debug/net10.0/blob storage.genruntimeconfig.cache
+/workspaces/blob-storage/blob storage/obj/Debug/net10.0/ref/blob storage.dll
